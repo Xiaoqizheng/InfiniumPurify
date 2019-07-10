@@ -1,0 +1,2 @@
+import(matrixStats,stats,utils,minfi)
+export(getPurity,InfiniumDM,InfiniumPurify,InfiniumClust,CancerTypeAbbr)
