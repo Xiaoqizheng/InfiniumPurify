@@ -4,9 +4,9 @@ The proposition of cancer cells in a tumor sample, named as tumor purity, is an 
 
 How to install?
 1. Install the devtools package if needed.
-<p><code>install.packages("devtools")</code> 
+<code>install.packages("devtools")</code> 
 2. Load the devtools package.
-library(devtools)
+<code>library(devtools)</code> 
 3. Install InfiniumPurify from GitHub. 
-install_github("Xiaoqizheng/InfiniumPurify")
+<code>install_github("Xiaoqizheng/InfiniumPurify")</code> 
 
